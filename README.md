@@ -11,8 +11,7 @@
 I'm a passionate developer with a strong foundation in **Data Structures & Algorithms** and hands-on experience building real-world applications. I enjoy creating efficient, scalable solutions and exploring new technologies.
 
 - 🎓 **Bachelor of Information and Communication Technology (Honours)** - Software System Technology
-  - Faculty of Computing and Technology
-    University of Kelaniya, Sri Lanka
+  - Faculty of Computing and Technology - University of Kelaniya, Sri Lanka
 - 💻 Full-Stack Web Developer
 - � Currently learning **MERN Stack** (MongoDB, Express.js, React, Node.js)
 - 🐍 Exploring **Python** for Machine Learning and Data Science
