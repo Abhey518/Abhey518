@@ -103,19 +103,21 @@ Full-featured e-commerce platform with modern UI and complete shopping functiona
 
 ### 📝 [Python Student Grade System](https://github.com/Abhey518/python-student-grade-system)
 
-Student grade management system with complete CRUD operations and custom validation.
+A comprehensive student management system with advanced Python features including custom context managers, recursive functions, and lambda expressions.
 
-**Tech Stack:** `Python`
+**Tech Stack:** `Python` `CSV`
 
 **Key Features:**
 
-- ➕ Add, view, search, and update student records
-- ✅ Custom validation for student IDs, names, and marks
-- 📊 Science and Maths marks tracking with formatted table output
+- 📚 Complete CRUD operations for student records
+- 🔍 Advanced search and class statistics with recursive average calculation
+- 📊 Science and Maths marks tracking with automatic grading (A+ to F)
 - 🛡️ Custom exception handling (DuplicateIDError, InvalidMarkError)
-- 💾 File I/O operations for persistent data storage
+- � Custom FileManager context manager for efficient file operations
+- 💾 CSV-based persistent storage with comprehensive input validation
+- 🏆 Tied marks detection using lambda expressions
 
-> 📌 **Individual console-based Python learning project**
+> 📌 **Individual academic project demonstrating advanced Python concepts**
 
 ---
 
