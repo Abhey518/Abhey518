@@ -153,8 +153,6 @@ Desktop application showcasing Java Swing GUI development.
 
 ## 🏆 Achievements
 
-- 🎓 Completed **SWST 31032 - Applied Information Systems** course
-- 📚 Completed **CTEC 22023 - Data Structures and Algorithms** course
 - 💻 Built multiple full-stack applications from scratch
 - 🌱 Contributed to environmental sustainability through tech
 
