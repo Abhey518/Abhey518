@@ -111,7 +111,11 @@ Desktop application showcasing Java Swing GUI development.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Abhey518&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhey518&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhey518&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhey518&theme=tokyo-night&hide_border=true)
 
 </div>
 
