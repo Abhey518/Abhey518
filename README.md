@@ -13,9 +13,9 @@ I'm a passionate developer with a strong foundation in **Data Structures & Algor
 - 🎓 **Bachelor of Information and Communication Technology (Honours)** - Software System Technology
   - Faculty of Computing and Technology - University of Kelaniya, Sri Lanka
 - 💻 Full-Stack Web Developer
-- � Currently learning **MERN Stack** (MongoDB, Express.js, React, Node.js)
+- 📚 Currently learning **MERN Stack** (MongoDB, Express.js, React, Node.js)
 - 🐍 Exploring **Python** for Machine Learning and Data Science
-- �🎯 Focus on building practical, user-centric applications
+- 🎯 Focus on building practical, user-centric applications
 - 🌍 Interested in **Environmental Tech** and **Sustainable Solutions**
 
 ## 🛠️ Tech Stack
@@ -55,13 +55,6 @@ A comprehensive web-based school management platform with separate portals for a
 
 **Tech Stack:** `JavaScript` `HTML/CSS` `Supabase` `PostgreSQL` `Docker`
 
-**Key Features:**
-
-- 👨‍💼 Admin portal with dashboard analytics and user management
-- 👨‍🏫 Teacher portal for attendance tracking and marks entry
-- 📊 Real-time notifications and dynamic theming
-- 🔐 Secure authentication with role-based access control
-
 > 📌 **Individual full-stack web application project**
 
 ---
@@ -71,14 +64,6 @@ A comprehensive web-based school management platform with separate portals for a
 Flutter web application for managing an environmental impact tracker platform.
 
 **Tech Stack:** `Flutter` `Dart` `Web`
-
-**Key Features:**
-
-- 📊 Real-time analytics dashboard
-- 👥 Comprehensive user management system
-- 📢 Multi-type notification system (General, Pickup, Urgent, Announcements)
-- 📰 Content management for articles and educational materials
-- 🧒 Kids content and quiz management
 
 > 📌 **Collaborative project contribution**
 
@@ -90,13 +75,6 @@ Full-featured e-commerce platform with modern UI and complete shopping functiona
 
 **Tech Stack:** `HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
-**Key Features:**
-
-- 🛍️ Product catalog with search and filtering
-- 🛒 Shopping cart and checkout system
-- 👤 User authentication and profile management
-- 💳 Order processing and management
-
 > 📌 **Collaborative project contribution**
 
 ---
@@ -107,16 +85,6 @@ A comprehensive student management system with advanced Python features includin
 
 **Tech Stack:** `Python` `CSV`
 
-**Key Features:**
-
-- 📚 Complete CRUD operations for student records
-- 🔍 Advanced search and class statistics with recursive average calculation
-- 📊 Science and Maths marks tracking with automatic grading (A+ to F)
-- 🛡️ Custom exception handling (DuplicateIDError, InvalidMarkError)
-- � Custom FileManager context manager for efficient file operations
-- 💾 CSV-based persistent storage with comprehensive input validation
-- 🏆 Tied marks detection using lambda expressions
-
 > 📌 **Individual academic project demonstrating advanced Python concepts**
 
 ---
@@ -126,12 +94,6 @@ A comprehensive student management system with advanced Python features includin
 Comprehensive implementation of Data Structures and Algorithms in C.
 
 **Tech Stack:** `C`
-
-**Highlights:**
-
-- Implementation of fundamental data structures
-- Algorithm analysis and optimization
-- Academic project demonstrating strong CS fundamentals
 
 > 📌 **Individual academic implementation project**
 
@@ -149,7 +111,7 @@ Desktop application showcasing Java Swing GUI development.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhey518&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Abhey518&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
