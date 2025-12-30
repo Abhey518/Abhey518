@@ -111,7 +111,7 @@ Desktop application showcasing Java Swing GUI development.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Abhey518&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Abhey518&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
