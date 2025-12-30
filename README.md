@@ -111,11 +111,11 @@ Desktop application showcasing Java Swing GUI development.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhey518&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhey518&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhey518&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhey518&theme=tokyonight)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhey518&theme=tokyo-night&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhey518&theme=tokyonight)
 
 </div>
 
